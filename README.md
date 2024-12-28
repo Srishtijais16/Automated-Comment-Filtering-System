@@ -18,7 +18,7 @@ This project is an **Automated Comment Filtering System** designed to identify a
 
 ## Directory Structure
 
-vulnerability-detection/
+Automated Comment Filtering System/
 - `app.py`                        # Main Flask application
 - `sample.py`                     # Utility script to check column names
 - `cleaned_vulgar_words.csv`      # Dataset of vulgar words
