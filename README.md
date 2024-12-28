@@ -20,9 +20,6 @@ This project is an **Automated Comment Filtering System** designed to identify a
 
 vulnerability-detection/ ├── app.py # Main Flask application ├── sample.py # Utility script to check column names ├── cleaned_vulgar_words.csv # Dataset of vulgar words ├── db.sqlite3 # SQLite database file ├── templates/ │ ├── comment_form.html # HTML form for submitting comments │ └── admin_dashboard.html # Admin dashboard for flagged comments ├── requirements.txt # Python dependencies └── README.md # Project documentation
 
-Copy code
-
-
 ## Usage
 **Submit Comments:
 Visit the homepage and enter your comment or review.
