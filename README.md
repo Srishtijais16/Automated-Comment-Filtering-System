@@ -29,11 +29,11 @@ vulnerability-detection/
 └── README.md # Project documentation
 
 ## Usage
-- **Submit Comments:
+**Submit Comments:
 Visit the homepage and enter your comment or review.
 Clean comments will be displayed; flagged comments will be blocked.
 
-- **Admin Review:
+**Admin Review:
 Navigate to /admin to view flagged comments.
 Delete inappropriate comments as necessary.
 
